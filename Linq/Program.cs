@@ -12,7 +12,6 @@ namespace Linq
         static void Main(string[] args)
         {
             //var s = GetAllStudents();
-            fefef
             IList<int> intList1 = new List<int>() {
                                             10,
                                             8,
