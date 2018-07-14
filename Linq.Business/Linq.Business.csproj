@@ -61,6 +61,7 @@
     <Compile Include="Student.cs">
       <DependentUpon>StudentsModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="StudentsBLL.cs" />
     <Compile Include="StudentsModel.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
