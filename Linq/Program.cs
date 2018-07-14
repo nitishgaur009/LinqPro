@@ -12,7 +12,7 @@ namespace Linq
         static void Main(string[] args)
         {
             //var s = GetAllStudents();
-
+            fefef
             IList<int> intList1 = new List<int>() {
                                             10,
                                             8,
@@ -34,6 +34,7 @@ namespace Linq
             var result2 = intList1.Union(intList2).OrderBy(s1 => s1);
 
             //var result = strList1.Join(strList2, s1 => s1, s2 => s2, (s1, s2) => s1);
+            int i;
 
             StudentDBEntities context = new StudentDBEntities();
             //var res = context.Students.Join(context.Teachers,
