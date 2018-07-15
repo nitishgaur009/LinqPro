@@ -10,7 +10,7 @@ namespace Linq.Test
         [TestMethod]
         public void CheckHelloWorld()
         {
-            string name = "nitish";
+            string name = "nitish2";
 
             Assert.AreEqual(StudentsBLL.GetHello(name), "Hello nitish");
         }
